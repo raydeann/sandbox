@@ -7,3 +7,7 @@ enabled = true
   [analyzers.meta]
   import_paths = ["github.com/raydeann/sandbox"]
   dependencies_vendored = true
+
+[[analyzers]]
+name = "docker"
+enabled = true
